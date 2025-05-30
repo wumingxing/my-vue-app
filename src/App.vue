@@ -52,7 +52,7 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   background: #f7f8fa;
-  margin: 0;
+  margin: 30;
   padding: 0;
 }
 
